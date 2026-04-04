@@ -205,3 +205,23 @@ h2 {
 body {
     background: red;
 }
+
+nav a:last-child {
+    background: #00bcd4;
+    padding: 6px 12px;
+    border-radius: 6px;
+    color: white;
+}
+
+.dashboard {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.dashboard h2 {
+    margin-bottom: 20px;
+}
+
+.dashboard .card {
+    margin: 20px auto;
+}
